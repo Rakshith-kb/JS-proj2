@@ -1,0 +1,9 @@
+#root {
+    position: relative;
+}
+
+.container {
+    position: absolute;
+    top: 350px;
+    left: 45%;
+}
